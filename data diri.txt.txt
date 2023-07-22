@@ -3,3 +3,5 @@ Asal : Universitas Banten Jaya
 Jurusan : Teknik Informatika
 Jenis Kelamin : Perempuan 
 Hobi : Membaca komik dan menyanyi
+Alamat : Serang
+Umur : 19
